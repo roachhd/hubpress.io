@@ -27,7 +27,7 @@ Hosting for your blog is provided by GitHub Pages.
 
 If you see something wrong with the documentation, please raise an issue. Your help with improving every aspect of HubPress is greatly appreciated. Pull Requests are *always* welcome. See the Contributing guide for more information.
 
-== Browser Compatibility
+== Browser Compatibility 
 
 HubPress is compatible with Chrome Desktop, Firefox Desktop, and Chrome for Android.
 
